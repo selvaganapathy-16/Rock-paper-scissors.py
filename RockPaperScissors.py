@@ -15,7 +15,7 @@ while(1):
     print('Please enter rock, paper or scissor')
     continue
   if a == x:
-    print('It's a tie \U0001F605')
+    print('It\'s a tie \U0001F605')
   elif a == 'ROCK' and x == 'SCISSORS':
     print (f'My choice is {x} you win \U0001F612')
   elif a == 'SCISSORS' and x == 'PAPER':
