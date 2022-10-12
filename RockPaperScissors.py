@@ -19,9 +19,9 @@ while(1):
   elif a == 'ROCK' and x == 'SCISSORS':
     print (f'My choice is {x} you win \U0001F612')
   elif a == 'SCISSORS' and x == 'PAPER':
-    print (f'My choice is {x) you win Ueee1F612')
+    print (f'My choice is {x} you win Ueee1F612')
   elif a == 'PAPER' and x == 'ROCK':
-    print(f'My choice is (x) you win \U0001F612')
+    print(f'My choice is {x} you win \U0001F612')
   else:
     print (f'My choice is {x} HaHa...I win \U0001F923')
   time.sleep(1)
